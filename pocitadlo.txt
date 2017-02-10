@@ -1,0 +1,2 @@
+jedna, dva, tri
+, styri
