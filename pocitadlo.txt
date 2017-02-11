@@ -1,2 +1,2 @@
 jedna, dva, tri
-, styri
+, styri, pat, sest, sedem...
